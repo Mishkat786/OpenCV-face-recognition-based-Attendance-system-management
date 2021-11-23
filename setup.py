@@ -29,5 +29,3 @@ setup(
     description = 'Vision ToolBox',
     executables = executables
 )
-
-#write python setup build
